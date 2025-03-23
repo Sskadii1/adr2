@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Other string resources if any -->
+    <string name="app_name">Your App Name</string>
+
+    <string-array name="roles">
+        <item>admin</item>
+        <item>lecturer</item>
+        <item>student</item>
+    </string-array>
+</resources>
